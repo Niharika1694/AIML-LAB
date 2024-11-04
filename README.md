@@ -12,4 +12,4 @@
 
 #Lab07(https://github.com/Niharika1694/AIML-LAB/blob/main/Lab07-AIML.ipynb)
 
-#Lab08(https://github.com/Niharika1694/AIML-LAB/blob/main/Untitled0.ipynb)
+#Lab08(https://github.com/Niharika1694/AIML-LAB/blob/main/Lab08-AIML.ipynb)

@@ -17,3 +17,5 @@
 #Lab08(https://github.com/Niharika1694/AIML-LAB/blob/main/Lab08-AIML.ipynb)
 
 #Lab09(https://github.com/Niharika1694/AIML-LAB/blob/main/Lab09-AIML.ipynb)
+
+#Lab10(https://github.com/Niharika1694/AIML-LAB/blob/main/Lab10-AIML.ipynb)
